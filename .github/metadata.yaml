@@ -1,0 +1,8 @@
+description: "Wavenumber for Swift: how fast a phase turns along a distance, in radians per metre, as a kind of quantity."
+topics:
+  - primitives
+  - quantity
+  - physics
+homepage: "https://swift-institute.org"
+readme:
+  family: E
